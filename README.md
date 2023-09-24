@@ -1,21 +1,14 @@
 ### Hi there 👋
 
-<!--
-**TuNNan2003/TuNNan2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome to TuNNan's profile&color=ffffff)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+### I’m currently working on 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I’m currently working on 
 - **UnloadBase** 
   [![UnloadBase](https://wakatime.com/badge/user/b86b9fb4-9b8e-44ab-b86f-7428453fc563/project/063c742d-9237-496b-92ca-885172564e02.svg)](https://wakatime.com/badge/user/b86b9fb4-9b8e-44ab-b86f-7428453fc563/project/063c742d-9237-496b-92ca-885172564e02)
 - **Sponge-CS144** 
   [![Sponge-CS144](https://wakatime.com/badge/user/b86b9fb4-9b8e-44ab-b86f-7428453fc563/project/80bcd134-c964-4ecb-b78c-fdf56540dacc.svg)](https://wakatime.com/badge/user/b86b9fb4-9b8e-44ab-b86f-7428453fc563/project/80bcd134-c964-4ecb-b78c-fdf56540dacc)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TuNNan2003&count_private=true&theme=dracula)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TuNNan2003&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
