@@ -1,6 +1,4 @@
-### Hi there 👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome to TuNNan's profile&color=ffffff)](https://git.io/typing-svg)
+## Hi there 👋
 
 ### I’m currently working on 
 
