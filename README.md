@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 ### I’m currently working on 
-
+- **6.5840-MapReduce**
+  [![wakatime](https://wakatime.com/badge/user/b86b9fb4-9b8e-44ab-b86f-7428453fc563/project/018c6b6d-bdf5-40e0-8c09-1a2d4145a6fa.svg)](https://wakatime.com/badge/user/b86b9fb4-9b8e-44ab-b86f-7428453fc563/project/018c6b6d-bdf5-40e0-8c09-1a2d4145a6fa)
 - **UnloadBase** 
   [![UnloadBase](https://wakatime.com/badge/user/b86b9fb4-9b8e-44ab-b86f-7428453fc563/project/063c742d-9237-496b-92ca-885172564e02.svg)](https://wakatime.com/badge/user/b86b9fb4-9b8e-44ab-b86f-7428453fc563/project/063c742d-9237-496b-92ca-885172564e02)
 - **Sponge-CS144** 
